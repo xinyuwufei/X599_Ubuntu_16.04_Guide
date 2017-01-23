@@ -11,3 +11,8 @@ bcm94352:
 nvidia:
 
     http://www.webupd8.org/2016/06/how-to-install-latest-nvidia-drivers-in.html
+    
+Tensorflow/cuda/etc:
+
+    https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/
+    * not follow all the steps
